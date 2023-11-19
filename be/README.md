@@ -81,7 +81,7 @@ These are the features of the API.
 - Install the dependencies.
 
   ```bash
-  npm i
+  npm install
   ```
 
 ### Development
